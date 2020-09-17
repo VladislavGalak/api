@@ -1,0 +1,16 @@
+{
+  "name": "askaron/api",
+  "description": "Ease create ajax response",
+  "keywords": ["bitrix", "d7", "api"],
+  "type": "bitrix-d7-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Askaron Systems",
+      "email": "mail@askaron.ru"
+    }
+  ],
+  "require": {
+    "composer/installers": ">=1.0.22 <2.0"
+  }
+}
